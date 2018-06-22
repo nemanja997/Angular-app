@@ -1,5 +1,5 @@
 # Angular-app
-Simple application for displaying userr information and posts made with Angular (Verison 6)
+Simple application for displaying user information and posts made with Angular (Verison 6)
 
 
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - API used for fetching Users and posts data.
