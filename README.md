@@ -17,7 +17,7 @@ Simple application for displaying user information and posts made with Angular (
 
 
 
-### Running app:
+## Running app:
 
 
 
