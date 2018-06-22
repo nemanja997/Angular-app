@@ -20,7 +20,6 @@ export class DetailsComponent implements OnInit {
     this.data.getUser(this.user$).subscribe(
       data=> this.user$=data
     )
-    
   }
 
 }
