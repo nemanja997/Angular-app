@@ -21,7 +21,7 @@ Simple application for displaying user information and posts made with Angular (
 
 
 
-1. Download and install <b>[node.js](https://nodejs.org/en/)</b>
+1. Download and install [node.js](https://nodejs.org/en/)
 
 2. Install [NPM](https://www.npmjs.com/)
 
